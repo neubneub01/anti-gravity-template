@@ -34,3 +34,19 @@ frontend/
 - All routers use dependency injection for DB sessions.
 - Business logic lives in `services/`, never in routers.
 - Pydantic schemas separate Create/Update/Response variants.
+
+---
+
+<!-- SETUP CHECKLIST — delete this block after completing all items -->
+## Setup Checklist
+
+Before this file is useful to the AI assistant, confirm all sections above are filled in:
+
+- [ ] `## Project Name` — real project name (not a comment)
+- [ ] `## Tech Stack` — actual package versions in use
+- [ ] `## Directory Layout` — real project structure (not the template placeholder)
+- [ ] `## Key Patterns` — at least 2 patterns specific to this project
+
+An incomplete file (containing `<!-- CUSTOMIZE` or `<!-- e.g.,` comments) means the AI has no project-specific context and will give generic responses.
+
+<!-- END CHECKLIST -->
